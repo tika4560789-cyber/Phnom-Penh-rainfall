@@ -1,5 +1,3 @@
-# TSA Week 2 — Phnom Penh monthly precipitation
-
 - Source supplied by instructor: `POWER_Point_Monthly_20150101_20251231_011d56N_104d93E_LST.csv`.
 - Table: 2015–2025, 11 rows × 12 monthly observations = 132 months; `ANN` is an annual total, not another month.
 - Named location: Phnom Penh, approximately 11.56° N, 104.93° E from supplied filename (precise NASA metadata absent).
